@@ -2,19 +2,19 @@
 
 This app is used to search an entered number in the list 
 ##Design
-![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_rainbacani/blob/master/design.png)
+![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_rainbacani/blob/master/design.PNG)
 
 ##Initializing and showing the list
-![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_rainbacani/blob/master/initialize.png)
+![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_rainbacani/blob/master/initialize.PNG)
 
 ##Linear Search
-![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_rainbacani/blob/master/linear.png)
+![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_rainbacani/blob/master/linear.PNG)
 
 ##Binary Search
-![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_rainbacani/blob/master/binary.png)
+![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_rainbacani/blob/master/binary.PNG)
 
 ##In Android- Found
-![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_rainbacani/blob/master/found.png)
+![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_rainbacani/blob/master/found.jpg)
 
 ##In Android- Not Found
-![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_rainbacani/blob/master/notfound.png)
+![](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_rainbacani/blob/master/notfound.jpg)
